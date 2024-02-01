@@ -12,7 +12,7 @@ package card;
  * @modifier Tharusha Liyanage
  */
 import java.util.Scanner;
-//comment ppp
+//comment ppp new
 public class CardTrick {
     
     public static void main(String[] args) {
